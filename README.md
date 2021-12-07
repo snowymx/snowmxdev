@@ -13,7 +13,7 @@ Version control: GitHub , GitLab
 Languages: JavaScript, PHP, Python, Java, C/C++/C#, Solidity, Rust, TEAL
 Tools, IDEs, Services: Visual Studio Code, WebStorm, PyCharm, IntelliJ, Remix
 API, libraries, frameworks and technologies:
-1. React.js / Vue.js / Laravel / NodeJs / Django / Flask / AWS
+1. React.js / Vue.js / Symfony / Laravel / NodeJs / Django / Flask / AWS
 2. Ethereum / Algorand / Solana / ERC20 / ERC721 / ERC777 / ERC1155 / BSC / TheGraph / Vyper / Web3.js / Ethers.js
 3. Qt(QML) / WPF/ PyQT / Swing / JavaFx
 
