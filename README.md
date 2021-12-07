@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-Hi, I'm a Senior Web & Blockchain developer
-I have rich experience with Web & Blockchain area.
+Hi, I'm a Senior Web & Blockchain developer amd I have rich experience with Web & Blockchain area.
 
 
 Web Development:
