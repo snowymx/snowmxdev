@@ -16,7 +16,7 @@ Blockchain:
 
     Solidity & Rust
     Cargo / Hardhat / Truffle / Openzeppelin
-    Ethereum / Solana / Avalanche / Algorand / Cardano 
+    Ethereum / Solana / Terra / Avalanche / Algorand / Cardano 
     ERC20 / ERC721 / ERC777 / ERC1155 / BSC / TheGraph / Vyper / Web3.js / Ethers.js
 
 
