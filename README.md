@@ -15,8 +15,8 @@ Web Development:
 Blockchain:
 
     Solidity & Rust
-    Solana / Ethereum / Avalanche / Near / Terra / Algorand / Cardano 
-    Cargo / Hardhat / Truffle / Openzeppelin / Anchor
+    Solana / Ethereum / Avalanche / Near / Aurora / Terra / Cardano 
+    Cargo / Anchor / Hardhat / Truffle / Openzeppelin 
     ERC20 / ERC721 / ERC777 / ERC1155 / BSC / TheGraph / Vyper / Web3.js
 
 
